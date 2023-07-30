@@ -1,4 +1,4 @@
-# Introduction to Data Encryption
+# GitHub Collaboration
 
 ## Purpose
 This GitHub repository serves as a hands-on exercise for demonstrating version control, forking, branching, and submitting pull requests. The assignment focuses on data encryption using Python scripts, where students will encrypt their personal details using a provided public key.
