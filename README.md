@@ -53,11 +53,13 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
      ```
    - The encrypted output will be displayed on the console.
 
-7. **Save Output to a File:**
-   - Save the output of the encryption process into a file named `<github-username>.txt`, where `<github-username>` is your GitHub username. Run the following command to save the file:
-     ```
-     python encrypt.py > <github-username>.txt
-     ```
+7. **Save Encrypted Output to a File (Safe Option):**
+   - Run the `encrypt.py` script and enter your personal details when prompted.
+   - After running the script, the encrypted output will be displayed on the console.
+   - Copy the entire encrypted output string from the console.
+   - Create a text file named `<github-username>.txt` in the root directory of the repository (replace `<github-username>` with your GitHub username).
+   - Paste the copied encrypted output string into the `<github-username>.txt` file.
+   - Save the file.
 
 8. **Commit and Push:**
    - Commit your changes to the `personal-details` branch:
@@ -76,7 +78,8 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
    - Submit the pull request to merge your changes into the main branch of the original repository.
 
 **Note:**
-- No one can decrypt your informaition without the private key.
+- not to include any unencrypted personal details or sensitive files in the repository 
+- no one can decrypt your information without the private key.
 - **The private key (`private_key.pem`).** is kept secure and is only used by the repository maintainer for verification.
 - Your pull request will be reviewed, and any feedback or suggestions will be provided before merging it into the main branch.
 
