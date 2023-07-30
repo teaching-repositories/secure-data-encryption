@@ -78,8 +78,8 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
    - Submit the pull request to merge your changes into the main branch of the original repository.
 
 **Note:**
-- not to include any unencrypted personal details or sensitive files in the repository 
-- no one can decrypt your information without the private key.
+- Do not include any unencrypted personal details or sensitive files in the repository 
+- No one can decrypt your information without the private key.
 - **The private key (`private_key.pem`).** is kept secure and is only used by the repository maintainer for verification.
 - Your pull request will be reviewed, and any feedback or suggestions will be provided before merging it into the main branch.
 
