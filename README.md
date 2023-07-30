@@ -33,7 +33,7 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
 4. **Setup Python Environment:**
    - Create a new Python environment using `conda` by running the following command (for Windows users):
      ```
-     conda create --name crypto python=3.9
+     conda create --name crypto python=3.10
      ```
 
 5. **Install Required Packages:**
