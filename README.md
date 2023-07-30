@@ -88,4 +88,7 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
 - [GitHub Pull Requests Guide](https://docs.github.com/en/get-started/quickstart/opening-a-pull-request)
 - [Conda Documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
+**Acknowledgement**
+
+- Inspiration for this repository from: [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
 By completing this assignment, you will demonstrate your proficiency in version control and your ability to work with Python scripts for data encryption. Adhere to the given instructions to ensure a successful pull request submission. Good luck with the assignment!
