@@ -11,6 +11,7 @@ This GitHub repository serves as a hands-on exercise for demonstrating version c
 ## Assignment Steps
 1. **Fork the Repository:**
    - Click the "Fork" button at the top right of the repository page to create your copy of the repository under your GitHub account.
+   - These instructions your forked repository will be called `SecureDataEncryption`
 
 2. **Clone the Forked Repository:**
    - On your local machine, navigate to the directory where you want to clone the repository.
