@@ -1,0 +1,3 @@
+Enter your name: Sonam Jhugdamby
+Enter your email: 21045150@student.curtin.edu.au
+Enter your student ID: 21045150
